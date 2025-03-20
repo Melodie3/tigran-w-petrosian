@@ -159,13 +159,6 @@ phrases_database = list([
                         "<:levy_rozman:958754416654176266>",],
         "index" : 0 
     },
-    { "keys" : ["google balloons tower defense",
-                "google bloons tower defense",
-                "google btd",
-                "btd"],
-        "responses" : ['''"Your btd skills are insane." Hikaru said, as he slipped his feminine hand into Magnus's pants and smirked. "Are you trying to rush me?" protests Magnus, as Hikaru blushes, the boyish figure undressed before Magnus. "Weak greed play, Hikaru." The two kissed, deeply and passionately, and afterwards Magnus places his moab into Hikarus open line.'''],
-        "index" : 0 
-    },
     { "keys" : ["portuguese",
                 "brazil"],
         "responses" : ["Está de zoeira ???",
